@@ -1,0 +1,67 @@
+[
+    {
+      "_id": "6575fda1b0e6e220b2af13e0",
+      "title": "статья 1",
+      "text": "quia et suscipit\\nsuscipit recusandae consequuntur expedita et cum\\nreprehenderit molestiae ut ut quas totam\\nnostrum rerum est autem sunt rem eveniet architecto",
+      "themeid": "6575fc98b0e6e220b2af13db",
+      "date": "2023-10-12T00:00:00.000Z",
+      "numlike": 1
+    },
+    {
+      "_id": "6575feb4b0e6e220b2af13e1",
+      "title": "статья 2",
+      "text": "eum non blanditiis soluta porro quibusdam voluptas\\nvel voluptatem qui placeat dolores qui velit aut\\nvel inventore aut cumque culpa explicabo aliquid at\\nperspiciatis est et voluptatem dignissimos dolor itaque sit nam",
+      "themeid": "6575fc98b0e6e220b2af13db",
+      "numlike": 23,
+      "date": "2023-10-13T00:00:00.000Z"
+    },
+    {
+      "_id": "6575ff5ab0e6e220b2af13e2",
+      "title": "статья 3",
+      "text": "doloremque ex facilis sit sint culpa\\nsoluta assumenda eligendi non ut eius\\nsequi ducimus vel quasi\\nveritatis est dolores",
+      "themeid": "6575fcb2b0e6e220b2af13dc",
+      "date": "2023-10-14T00:00:00.000Z",
+      "numlike": 11
+    },
+    {
+      "_id": "6575ffb2b0e6e220b2af13e3",
+      "title": "статья 4",
+      "text": "cupiditate quo est a modi nesciunt soluta\\nipsa voluptas error itaque dicta in\\nautem qui minus magnam et distinctio eum\\naccusamus ratione error aut",
+      "themeid": "6575fcb2b0e6e220b2af13dc",
+      "date": "2023-10-11T00:00:00.000Z",
+      "numlike": 1
+    },
+    {
+      "_id": "6575fff7b0e6e220b2af13e4",
+      "title": "статья 5",
+      "text": "facere qui nesciunt est voluptatum voluptatem nisi\\nsequi eligendi necessitatibus ea at rerum itaque\\nharum non ratione velit laboriosam quis consequuntur\\nex officiis minima doloremque voluptas ut aut",
+      "themeid": "6575fcc7b0e6e220b2af13dd",
+      "date": "2023-10-21T00:00:00.000Z",
+      "numlike": 7
+    },
+    {
+      "_id": "65760032b0e6e220b2af13e5",
+      "title": "статья 6",
+      "text": "ut libero sit aut totam inventore sunt\\nporro sint qui sunt molestiae\\nconsequatur cupiditate qui iste ducimus adipisci\\ndolor enim assumenda soluta laboriosam amet iste delectus hic",
+      "themeid": "6575fcc7b0e6e220b2af13dd",
+      "date": "2023-10-01T00:00:00.000Z",
+      "numlike": 70
+    },
+    {
+      "_id": "65760075b0e6e220b2af13e6",
+      "title": "статья 7",
+      "text": "libero accusantium et et facere incidunt sit dolorem\\nnon excepturi qui quia sed laudantium\\nquisquam molestiae ducimus est\\nofficiis esse molestiae iste et quos",
+      "themeid": "6575fcdcb0e6e220b2af13de",
+      "date": "2023-10-09T00:00:00.000Z",
+      "numlike": 3
+    },
+    {
+      "_id": "6576009fb0e6e220b2af13e7",
+      "title": "статья 8",
+      "text": "similique sed nisi voluptas iusto omnis\\nmollitia et quo\\nassumenda suscipit officia magnam sint sed tempora\\nenim provident pariatur praesentium atque animi amet ratione",
+      "themeid": "6575fcdcb0e6e220b2af13de",
+      "date": "2023-10-29T00:00:00.000Z",
+      "numlike": 33
+    }
+  ]
+  
